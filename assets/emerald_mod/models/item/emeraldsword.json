@@ -1,0 +1,28 @@
+{
+"parent": "item/generated",
+"display": {
+    "thirdperson_righthand": {
+        "rotation": [ 0, -90, 55 ],
+        "translation": [ 0, 4.0, 0.5 ],
+        "scale": [ 10000000000, 10000000000, 10000000000 ]
+    },
+    "thirdperson_lefthand": {
+        "rotation": [ 0, 90, -55 ],
+        "translation": [ 0, 4.0, 0.5 ],
+        "scale": [ 10000000000, 10000000000, 10000000000 ]
+    },
+    "firstperson_righthand": {
+        "rotation": [ 0, -90, 25 ],
+        "translation": [ 1.13, 3.2, 1.13 ],
+        "scale": [ 100000000000, 10000000000, 10000000000 ]
+    },
+    "firstperson_lefthand": {
+        "rotation": [ 0, 90, -25 ],
+        "translation": [ 1.13, 3.2, 1.13 ],
+        "scale": [ 1000000000000, 100000000000, 10000000000 ]
+    }
+},
+"textures": {
+    "layer0": "emerald_mod:items/e_sword"
+}
+}
